@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f4f6fb;
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+}
+
+.card {
+  background: #fff;
+  max-width: 420px;
+  width: 100%;
+  border-radius: 16px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.logo {
+  max-width: 220px;
+  margin-bottom: 12px;
+}
+
+h1 {
+  margin: 8px 0 4px;
+  color: #0A2AFF;
+}
+
+h2 {
+  margin: 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.slogan {
+  margin: 16px 0;
+  font-style: italic;
+  color: #ff6a00;
+}
+
+.info p {
+  margin: 6px 0;
+  font-size: 0.95rem;
+}
+
+.activities {
+  text-align: left;
+  margin: 20px 0;
+}
+
+.activities h3 {
+  margin-bottom: 8px;
+  color: #0A2AFF;
+}
+
+.activities ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.activities li {
+  margin-bottom: 6px;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 12px;
+  border-radius: 10px;
+  text-decoration: none;
+  background: #0A2AFF;
+  color: white;
+  font-weight: 600;
+}
+
+.btn.whatsapp {
+  background: #25d366;
+}
+
+.btn.outline {
+  background: transparent;
+  border: 2px solid #0A2AFF;
+  color: #0A2AFF;
+}

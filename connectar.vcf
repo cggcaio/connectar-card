@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Belarmino;Paulo;;;
+FN:Paulo Belarmino
+ORG:Connectar Networks
+TITLE:CEO
+TEL;TYPE=WORK,VOICE:(37)3512-3956
+TEL;TYPE=CELL,VOICE:(37)99829-3315
+EMAIL:connectar@connectar.com.br
+ADR:;;Rua Coronel João Notini 3130;Divinópolis;MG;35504-724;Brasil
+URL:https://connectar.com.br
+NOTE:Conectando o presente, preparando o futuro
+END:VCARD
